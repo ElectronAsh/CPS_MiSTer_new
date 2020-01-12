@@ -1,3 +1,5 @@
+// CPS video timing logic, by Frenchshark
+//
 // Bus timing :
 // ------------
 // 81 MHz bus clock (3 x 27)

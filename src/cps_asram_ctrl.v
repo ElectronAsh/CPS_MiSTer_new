@@ -1,3 +1,6 @@
+// CPS video / RAM timing logic, by Frenchshark.
+//
+//
 module cps_asram_ctrl
 (
     //-----------------------------
