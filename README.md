@@ -1,4 +1,4 @@
-# GBA_MiSTer
+# CPS_MiSTer
 
 Capcom Play System (CPS) core for MiSTer.
 
