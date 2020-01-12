@@ -12,10 +12,11 @@ Capcom Play System (CPS) core for MiSTer.
 - Player controls (via MiSTer USB / HPS) appear to be working.
 
 
-MiSTer project founded and maintained by Sorgelig.
-FX68K core by Jorge Cwik.
-T80 core by MikeJ, with additions by TobiFlex, Sean Riddle, and Sorgelig.
-jt51 core by Jotego.
-Video timing logic (cps_video_beam and cps_asram_ctrl) by Frenchshark.
-Redrawn CPS2 schematics by Loïc *WydD* Petit have been a big help.
-Help and support by dentnz, Furrtek, laxer3a, bhamadicharef, and many others. ;)
+
+- MiSTer project founded and maintained by Sorgelig.
+- FX68K core by Jorge Cwik.
+- T80 core by MikeJ, with additions by TobiFlex, Sean Riddle, and Sorgelig.
+- jt51 core by Jotego.
+- Video timing logic (cps_video_beam and cps_asram_ctrl) by Frenchshark.
+- Redrawn CPS2 schematics by Loïc *WydD* Petit have been a big help.
+- Help and support by dentnz, Furrtek, laxer3a, bhamadicharef, and many others. ;)
