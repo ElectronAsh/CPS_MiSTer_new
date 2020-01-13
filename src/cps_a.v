@@ -165,7 +165,7 @@ always @* begin
 	1: begin ROMA = {stars_sel, layer_cnt, 1'b0, GFX_RAM_DO, y_cnt[2:0]};				 end	// scroll1 	ROMA[22:0]=001?ccccccccccccccccyyy
 	2: begin ROMA = {stars_sel, layer_cnt, GFX_RAM_DO,		   y_cnt[3:0]};				 end	// scroll2 	ROMA[22:0]=010ccccccccccccccccyyyy
 	3: begin ROMA = {stars_sel, layer_cnt, GFX_RAM_DO[13:0], y_cnt[4:0], x_cnt[0]};	 end	// scroll3 	ROMA[22:0]=011ccccccccccccccyyyyyx
-	4:	begin ROMA = {stars_sel, layer_cnt, 6'b000000, s_bit, x_cnt[4:0], y_cnt[7:0]}; end	// stars 	ROMA[22:0]=100000000sxxxxxyyyyyyyy
+	4: begin ROMA = {stars_sel, layer_cnt, 6'b000000, s_bit, x_cnt[4:0], y_cnt[7:0]}; end	// stars 	ROMA[22:0]=100000000sxxxxxyyyyyyyy
 	default:;
 	endcase
 end

@@ -20,4 +20,5 @@ T80 core by MikeJ, with additions by TobiFlex, Sean Riddle, and Sorgelig.
 jt51 core by Jotego.
 Video timing logic (cps_video_beam and cps_asram_ctrl) by Frenchshark.
 Redrawn CPS2 schematics by Loïc *WydD* Petit have been a big help.
+Working CPS1 A board from Undamned.
 Help and support by dentnz, Furrtek, laxer3a, bhamadicharef, and many others. ;)
